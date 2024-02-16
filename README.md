@@ -4,6 +4,9 @@
 - Implements  MNIST database.
 - Pooling techniques and ReLU.
 
+Trying to run this on a local machine probably wont be a good idea.
+CloudLab, a cloud computing service, is where I have been testing this code.
+
 ## Programs:
 - Program 1 contains 12 layer which are all flattened at the end.
 - Program 2 contains 9 3-dimensional layers, and the last 3 are fully connected linear layers.
