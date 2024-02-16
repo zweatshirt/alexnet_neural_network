@@ -4,7 +4,7 @@
 - Implements  MNIST database.
 - Pooling techniques and ReLU.
 
-Trying to run this on a local machine probably wont be a good idea.
+Trying to run this on a local machine probably wouldn't be a good idea.
 CloudLab, a cloud computing service, is where I have been testing this code.
 
 ## Programs:
